@@ -12,6 +12,6 @@ description: An open source project with links to git client software
 
 ### Android
 
-* [Android](mobile/untitled.md)
+* [Android]()
 * [iOS](mobile/ios.md)
 
